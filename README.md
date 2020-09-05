@@ -9,3 +9,7 @@ We're going to take the following approach:`
 - Features
 - Modelling
 - Experimentation
+
+# How to use? 
+Clone the repository
+`Git clone `
