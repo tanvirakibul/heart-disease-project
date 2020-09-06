@@ -12,4 +12,6 @@ We're going to take the following approach:`
 
 # How to use? 
 Clone the repository
-`Git clone `
+`Git clone https://github.com/tanvirakibul/heart-disease-project.git`
+
+## Open with `Jupyter Notebook / Google Colab`
