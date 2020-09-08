@@ -11,7 +11,10 @@ We're going to take the following approach:`
 - Experimentation
 
 # How to use? 
-Clone the repository
-`Git clone https://github.com/tanvirakibul/heart-disease-project.git`
+```sh
+-Clone the repository
+Git clone https://github.com/tanvirakibul/heart-disease-project.git
+```
 
-## Open with `Jupyter Notebook / Google Colab`
+## Open with:
+`Jupyter Notebook / Google Colab`
